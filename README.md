@@ -1,3 +1,6 @@
 # Example Express Static Content Project
 
-This code goes along with the tutorial on the Modulus Blog about [static content with Express](http://blog.modulus.io/nodejs-and-express-static-content).
+This is a simple server based on Express.
+
+The directory to serve is set via DIR (defaults to public)
+The port to bind to is set via PORT (defaults to 3000)
